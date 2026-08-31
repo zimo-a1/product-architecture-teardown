@@ -1,0 +1,6 @@
+interface:
+  display_name: "产品架构拆解"
+  short_description: "用产品证据分层拆解并输出 HTML 架构报告"
+  default_prompt: "Use $product-architecture-teardown to analyze this product from evidence and deliver an HTML architecture report."
+policy:
+  allow_implicit_invocation: true
